@@ -5,7 +5,6 @@
 ## Technologies Used
 
 - NODEJS
-- MONGODB 
 - REACT
 -TAILWIND CSS
 
