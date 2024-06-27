@@ -21,10 +21,9 @@ The above functionalities are accessible after completing the contact details fo
 
 ## Getting Started
 
-1. Clone the repository: `git clone <repository-url>`
-2. Set up your database and configure connection settings in `config.php` (if applicable).
-3. Configure  your local environment.
-4. Navigate to the project directory and launch the application.
+1. Clone the repository: `git clone <https://github.com/htmcharles/contact__details__form_react>`
+2. Configure  your local environment.
+3. Navigate to the project directory and launch the application.
 
 ## Usage
 
