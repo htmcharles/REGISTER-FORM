@@ -23,7 +23,7 @@
     ```
 2. Install dependencies:
     ```bash
-    npm install
+    npm install axios react-router-dom
     ```
 3. Start the React application:
 
