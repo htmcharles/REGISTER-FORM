@@ -7,12 +7,25 @@
 - NODEJS
 - MONGODB 
 - REACT
+-TAILWIND CSS
 
 ## Getting Started
 
-1. Clone the repository: `git clone <https://github.com/htmcharles/contact__details__form_react>`
+1. Clone the repository: `git clone <https://github.com/htmcharles/REGISTER-FORM>`
 2. Configure  your local environment.
 3. Navigate to the project directory and launch the application.
+
+
+### Frontend
+1. Navigate to the frontend directory:
+    ```bash
+    cd front_end
+    ```
+2. Install dependencies:
+    ```bash
+    npm install
+    ```
+3. Start the React application:
 
 ## Usage
 
